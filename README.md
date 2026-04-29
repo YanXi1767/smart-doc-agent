@@ -28,7 +28,7 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-username/smart-doc-agent.git
+git clone https://github.com/YanXi1767/smart-doc-agent.git
 cd smart-doc-agent
 ```
 
@@ -133,8 +133,7 @@ smart-doc-agent/
 ## 📞 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 提交 GitHub Issue
-- 发送邮件至: your-email@example.com
+- 提交 GitHub Issue: https://github.com/YanXi1767/smart-doc-agent/issues
 
 ---
 
